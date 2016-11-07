@@ -1,0 +1,1018 @@
+Language,Code,TranslationsFrom,TranslationsTo,OutDegree,InDegree
+Abaza,abq,10,8,3,1
+Abidji,abi,0,6,0,2
+Abkhazian,abk,171,115,20,15
+Achi,acr,4,2,2,1
+Acoli,ach,3,0,3,0
+Adioukrou,adj,0,4,0,2
+Adyghe,ady,75,50,4,5
+Adzera,azr,0,1,0,1
+Afar,aar,0,1,0,1
+Afrikaans,afr,357,776,26,10
+Aghem,agq,0,6,0,2
+Aghul,agx,0,1,0,1
+Aguaruna,agr,1,1,1,1
+Agusan Manobo,msm,0,9,0,2
+Ahom,aho,1,0,1,0
+Ahtena,aht,1,0,1,0
+Ainu (Japan),ain,1,0,1,0
+Aja (Benin),ajg,0,7,0,1
+Ajië,aji,1,1,1,1
+Akan,aka,2,2,2,2
+Akawaio,ake,0,14,0,1
+Akkadian,akk,136,0,24,0
+Aklanon,akl,0,3,0,1
+Akoose,bss,0,5,0,3
+Albanian,sqi,1424,6757,34,50
+Algonquin,alq,2,4,2,1
+Alu Kurumba,xua,1,0,1,0
+Ama (Papua New Guinea),amm,0,1,0,1
+Amarasi,aaz,0,1,0,1
+Amganad Ifugao,ifa,0,4,0,3
+Amharic,amh,58,317,15,12
+Ancient Greek (to 1453),grc,17342,22,378,8
+Aneme Wake,aby,0,1,0,1
+Anglo-Norman,xno,10,0,3,0
+Angosturas Tunebo,tnd,0,1,0,1
+Anindilyakwa,aoi,1,1,1,1
+Anmatyerre,amx,1,0,1,0
+Anufo,cko,0,3,0,2
+Anyin,any,0,7,0,3
+Apinayé,apn,0,1,0,1
+Arabic,ara,11884,12488,98,76
+Aragonese,arg,5,64,3,9
+Arandai,jbj,0,1,0,1
+Arapaho,arp,3,0,2,0
+Arawak,arw,1,1,1,1
+Arikapú,ark,1,0,1,0
+Arikara,ari,4,0,2,0
+Armenian,hye,1100,2139,46,52
+Arop-Lokep,apr,0,1,0,1
+Arpitan,frp,1,3,1,1
+Aruá (Rodonia State),arx,1,0,1,0
+Asháninka,cni,1,1,1,1
+Ashéninka Pajonal,cjo,2,1,1,1
+Ashéninka Perené,prq,0,2,0,1
+Assamese,asm,95,526,13,37
+Asturian,ast,73,193,8,18
+Ata Manobo,atd,0,4,0,2
+Atikamekw,atj,2,3,1,1
+Attié,ati,0,1,0,1
+Auvergnat,auv,0,1,0,1
+Auye,auu,0,1,0,1
+Avaric,ava,186,64,34,7
+Avestan,ave,17,0,9,0
+Awadhi,awa,2,1,2,1
+Aymara,aym,7,6,3,2
+Azerbaijani,aze,774,1658,38,59
+Azhe,yiz,2,224,1,3
+Baatonum,bba,0,4,0,1
+Bachajón Tzeltal,tzb,0,2,0,1
+Bafut,bfd,0,6,0,2
+Baka (Cameroon),bkc,3,0,1,0
+Balangao,blw,0,5,0,3
+Balanta-Ganja,bjt,0,2,0,1
+Baluchi,bal,5,1,4,1
+Bambara,bam,29,9,3,1
+Bana,bcw,0,7,0,3
+Bandjalang,bdy,1,0,1,0
+Baniwa,bwi,1,0,1,0
+Bantoanon,bno,0,1,0,1
+Baoulé,bci,1,0,1,0
+Barai,bbb,0,1,0,1
+Bardi,bcj,0,1,0,1
+Bargam,mlp,0,1,0,1
+Basa (Cameroon),bas,2,3,1,1
+Bashkir,bak,357,502,24,16
+Basketo,bst,0,1,0,1
+Basque,eus,1021,3923,25,38
+Batuley,bay,0,2,0,1
+Bauzi,bvz,0,1,0,1
+Bavarian,bar,1,2,1,2
+Bedik,tnr,1,0,1,0
+Beembe,beq,5,0,2,0
+Belarusian,bel,1409,1874,49,54
+Belize Kriol English,bzj,2,0,2,0
+Bemba (Democratic Republic of Congo),bmy,0,1,0,1
+Bemba (Zambia),bem,0,1,0,1
+Bench,bcq,0,3,0,2
+Bengali,ben,2223,1878,64,55
+Berta,wti,0,2,0,1
+Bhele,bhy,0,3,0,1
+Bhojpuri,bho,2,0,2,0
+Biali,beh,0,14,0,2
+Bikol,bik,0,2,0,2
+Bimoba,bim,0,9,0,2
+Binukid,bkd,0,4,0,2
+Bislama,bis,2,2,2,2
+Bissa,bib,0,12,0,3
+Bontok,bnc,0,13,0,2
+Botolan Sambal,sbl,0,1,0,1
+Bouyei,pcc,0,3,0,1
+Brahui,brh,1,1,1,1
+Braj,bra,11,2,6,1
+Breton,bre,212,406,14,27
+Brooke's Point Palawano,plw,3,2,3,2
+Buamu,box,0,30,0,3
+Budu,buu,0,3,0,1
+Buduma,bdm,13,3,1,1
+Buginese,bug,1,0,1,0
+Bukiyip,ape,0,1,0,1
+Bulgarian,bul,3667,25742,57,77
+Buli (Ghana),bwu,0,4,0,1
+Bulu (Cameroon),bum,2,2,1,1
+Burarra,bvr,3,3,1,2
+Buriat,bua,128,47,10,3
+Burji,bji,0,1,0,1
+Burmese,mya,60,274,12,15
+Burushaski,bsk,1,0,1,0
+Cahuilla,chl,1,0,1,0
+Caló,rmr,1,4,1,2
+Cameroon Mambila,mcu,1,12,1,3
+Canela,ram,1,0,1,0
+Capanahua,kaq,2,0,1,0
+Caquinte,cot,1,0,1,0
+Caribbean Hindustani,hns,22,2,1,2
+Caribbean Javanese,jvn,9,6,1,2
+Cashinahua,cbs,1,0,1,0
+Catalan,cat,8328,18004,46,64
+Catawba,chc,1,0,1,0
+Cayuga,cay,0,2,0,1
+Cebaara Senoufo,sef,1,0,1,0
+Cebuano,ceb,3,11,2,4
+Central Atlas Tamazight,tzm,49,11,6,3
+Central Bai,bca,0,2,0,1
+Central Cagayan Agta,agt,0,9,0,2
+Central Khmer,khm,51,231,6,15
+Central Mam,mvc,0,1,0,1
+Central Puebla Nahuatl,ncx,1,0,1,0
+Central Siberian Yupik,ess,1,0,1,0
+Central Subanen,syb,0,5,0,3
+Central Yupik,esu,2,0,1,0
+Cerma,cme,3,24,1,4
+Chagatai,chg,19,0,8,0
+Chajul Ixil,ixj,0,1,0,1
+Chan Santa Cruz Maya,yus,1,0,1,0
+Chavacano,cbk,1,0,1,0
+Chayahuita,cbt,0,1,0,1
+Chechen,che,80,57,11,4
+Cherokee,chr,3,3,2,3
+Cheyenne,chy,10,0,3,0
+Chinese,zho,13337,62650,93,69
+Chipewyan,chp,25,123,2,3
+Choctaw,cho,0,3,0,1
+Chokwe,cjk,1,0,1,0
+Chol,ctu,0,1,0,1
+Chortí,caa,0,1,0,1
+Chuave,cjv,0,1,0,1
+Chukot,ckt,33,39,12,4
+Chumash,chs,1,0,1,0
+Chumburung,ncu,2,6,1,3
+Church Slavic,chu,80,7,16,5
+Chuukese,chk,0,1,0,1
+Chuvash,chv,203,174,15,16
+Cimbrian,cim,0,2,0,1
+Classical Nahuatl,nci,63,0,8,0
+Coatepec Nahuatl,naz,1,0,1,0
+Cochimi,coj,1,0,1,0
+Cogui,kog,0,1,0,1
+Comanche,com,2,0,2,0
+Coptic,cop,177,2,22,1
+Coquille,coq,1,0,1,0
+Cornish,cor,9,8,2,3
+Corsican,cos,50,50,4,9
+Cotabato Manobo,mta,0,16,0,2
+Cree,cre,117,66,6,7
+Crimean Tatar,crh,28,20,5,2
+Crow,cro,3,1,2,1
+Culina,cul,1,1,1,1
+Cuvok,cuv,1,0,1,0
+Czech,ces,17202,64442,71,101
+Daasanach,dsh,0,3,0,2
+Daba,dbq,0,19,0,3
+Daga,dgz,0,1,0,1
+Dagbani,dag,1,0,1,0
+Dakota,dak,25,23,7,2
+Daloa Bété,bev,1,0,1,0
+Dan,daf,0,5,0,3
+Dangaléat,daa,0,17,0,4
+Danish,dan,21239,64799,95,86
+Dano,aso,0,1,0,1
+Dar Daju Daju,djc,0,4,0,1
+Dargwa,dar,83,68,19,10
+Dazaga,dzg,0,15,0,2
+Dedua,ded,0,1,0,1
+Deg,mzw,0,8,0,3
+Dehu,dhv,1,0,1,0
+Delaware,del,4,1,1,1
+Delo,ntr,1,8,1,3
+Dendi (Benin),ddn,0,1,0,1
+Dengka,dnk,0,1,0,1
+Denya,anv,0,10,0,2
+Desano,des,1,0,1,0
+Dhivehi,div,1,7,1,1
+Dibabawon Manobo,mbd,0,10,0,1
+Digaro-Mishmi,mhu,1,0,1,0
+Dii,dur,0,1,0,1
+Ditammari,tbz,1,7,1,1
+Djambarrpuyngu,djr,0,1,0,1
+Djeebbana,djj,18,9,1,1
+Djimini Senoufo,dyi,0,4,0,2
+Djinang,dji,0,1,0,1
+Dogosé,dos,0,11,0,1
+Dogri (macrolanguage),doi,10,1,4,1
+Dogrib,dgr,2,4,1,1
+Dolgan,dlg,12,0,2,0
+Doyayo,dow,0,2,0,1
+Drung,duu,0,1,0,1
+Duala,dua,5,1,3,1
+Dungan,dng,10,8,5,2
+Dutch,nld,18978,111371,68,116
+Dyula,dyu,4,6,1,4
+Dzongkha,dzo,1,0,1,0
+Dzùùngoo,dnn,0,10,0,3
+Eastern Frisian,frs,3,4,1,4
+Eastern Karaboro,xrb,0,12,0,3
+Eastern Maroon Creole,djk,26,8,3,2
+Eblan,xeb,1,0,1,0
+Ede Idaca,idd,0,2,0,2
+Edolo,etr,0,1,0,1
+Efik,efi,0,2,0,2
+Egyptian (Ancient),egy,235,0,28,0
+Eipomek,eip,1,0,1,0
+Elip,ekm,0,2,0,1
+Emerillon,eme,1,0,1,0
+English,eng,1225237,146294,338,427
+Erzya,myv,70,32,7,3
+Esperanto,epo,99,542,25,35
+Estonian,est,5739,20605,59,101
+Etruscan,ett,2,0,1,0
+Even,eve,10,15,3,4
+Evenki,evn,24,8,4,1
+Ewage-Notu,nou,0,1,0,1
+Ewe,ewe,7,4,2,1
+Ewondo,ewo,1,0,1,0
+Extremaduran,ext,0,1,0,1
+Falam Chin,flm,1,0,1,0
+Fang (Cameroon),fak,1,0,1,0
+Fang (Equatorial Guinea),fan,3,0,1,0
+Farefare,gur,0,15,0,3
+Faroese,fao,104,415,10,18
+Fasu,faa,0,1,0,1
+Fe'fe',fmp,0,3,0,1
+Fijian,fij,1,8,1,2
+Filipino (macrolanguage),fil,87,150,10,16
+Finallig,bkb,0,1,0,1
+Finnish,fin,8296,46271,59,89
+Fon,fon,1,8,1,2
+Foodo,fod,0,3,0,3
+Forest Enets,enf,11,0,11,0
+French,fra,216624,238463,260,280
+Friulian,fur,8,0,3,0
+Fulah,ful,20,9,3,3
+Fuliiru,flr,0,11,0,2
+Fulniô,fun,0,1,0,1
+Fwâi,fwa,2,0,1,0
+Gaddang,gad,0,2,0,2
+Gagauz,gag,19,15,5,4
+Gagnoa Bété,btg,1,0,1,0
+Galibi Carib,car,12,3,4,2
+Galician,glg,1346,2371,23,41
+Ganda,lug,4,0,1,0
+Garifuna,cab,1,0,1,0
+Gascon,gsc,11,5,1,1
+Gbagyi,gbr,0,1,0,1
+Gbaya (Central African Republic),gba,0,14,0,3
+Gedeo,drs,0,1,0,1
+Geez,gez,22,1,6,1
+Geman Deng,gen,0,3,0,1
+Georgian,kat,1224,2176,55,66
+German,deu,201718,292124,164,217
+Ghomálá',bbj,0,3,0,1
+Gikyode,acd,0,6,0,3
+Gilbertese,gil,1,0,1,0
+Gilyak,niv,11,3,5,1
+Gitonga,toh,1,0,1,0
+Gonja,gjn,0,3,0,2
+Gothic,got,2,0,1,0
+Gourmanchéma,gux,1,0,1,0
+Gros Ventre,ats,1,0,1,0
+Guadeloupean Creole French,gcf,84,22,4,3
+Guarani,grn,9,2,4,2
+Gude,gde,1,14,1,2
+Guhu-Samane,ghs,0,1,0,1
+Guianese Creole French,gcr,17,8,2,1
+Guiberoua Béte,bet,1,0,1,0
+Gujarati,guj,264,524,22,30
+Gumatj,gnn,0,2,0,2
+Gun,guw,1,0,1,0
+Gunwinggu,gup,1,3,1,3
+Gurinji,gue,0,1,0,1
+Gwichʼin,gwi,1,1,1,1
+Hadiyya,hdy,0,4,0,2
+Haida,hai,2,0,1,0
+Haitian,hat,22,7,3,5
+Halbi,hlb,2,0,2,0
+Halkomelem,hur,3,1,1,1
+Hanga,hag,1,5,1,2
+Hani,hni,0,12,0,2
+Hanunoo,hnn,0,1,0,1
+Harsusi,hss,1,0,1,0
+Hausa,hau,9,53,3,7
+Hawaiian,haw,18,10,2,2
+Hazaragi,haz,0,1,0,1
+Hdi,xed,0,5,0,3
+Hebrew,heb,9889,10961,205,47
+Hemba,hem,0,1,0,1
+Herero,her,1,3,1,2
+Hidatsa,hid,1,0,1,0
+Higaonon,mba,0,1,0,1
+Highland Puebla Nahuatl,azz,1,0,1,0
+Hiligaynon,hil,2,1,1,1
+Hindi,hin,1469,3506,67,69
+Hittite,hit,8,0,3,0
+Hmong,hmn,8,30,4,2
+Hopi,hop,20,0,3,0
+Hozo,hoz,0,1,0,1
+Huambisa,hub,0,1,0,1
+Huautla Mazatec,mau,6,0,4,0
+Huichol,hch,1,1,1,1
+Humburi Senni Songhay,hmb,3,0,1,0
+Hunde,hke,1,0,1,0
+Hungarian,hun,11256,54989,58,95
+Iaai,iai,1,0,1,0
+Iamalele,yml,0,1,0,1
+Ibaloi,ibl,0,1,0,1
+Iban,iba,1,0,1,0
+Ibanag,ibg,0,2,0,2
+Ibatan,ivb,0,2,0,2
+Icelandic,isl,1518,6514,42,37
+Ifè,ife,0,45,0,3
+Igbo,ibo,9,4,5,2
+Ilianen Manobo,mbi,0,3,0,1
+Iloko,ilo,3,1,1,1
+Ilongot,ilk,0,1,0,1
+Inabaknon,abx,0,1,0,1
+Inari Sami,smn,1,15,1,4
+Ingush,inh,51,54,4,4
+Inoke-Yate,ino,0,1,0,1
+Interlingua (International Auxiliary Language Association),ina,0,3,0,1
+Inuktitut,iku,108,304,15,13
+Inupiaq,ipk,4,2,1,2
+Iraqw,irk,1,0,1,0
+Irish,gle,269,167,23,19
+Isekiri,its,0,1,0,1
+Italian,ita,66453,59830,93,104
+Itelmen,itl,3,0,1,0
+Ivatan,ivv,1,0,1,0
+Iwaidja,ibd,0,1,0,1
+Izon,ijc,1,0,1,0
+Jabutí,jbt,1,0,1,0
+Jamaican Creole English,jam,3,0,3,0
+Japanese,jpn,26921,130893,74,95
+Jarai,jra,1,0,1,0
+Javanese,jav,18,0,5,0
+Jola-Fonyi,dyo,1,7,1,1
+Judeo-Arabic,jrb,12,0,6,0
+K'iche',quc,1,0,1,0
+Kaansa,gna,0,8,0,2
+Kabardian,kbd,119,86,14,9
+Kabiyè,kbp,1,10,1,2
+Kabuverdianu,kea,3,1,1,1
+Kabyle,kab,39,9,2,5
+Kachin,kac,0,66,0,3
+Kadiwéu,kbc,1,1,1,1
+Kagayanen,cgc,0,4,0,2
+Kako,kkj,0,27,0,3
+Kala Lagaw Ya,mwp,1,1,1,1
+Kalaallisut,kal,86,327,9,12
+Kalagan,kqe,0,10,0,2
+Kalam,kmh,0,1,0,1
+Kalenjin,kln,1,0,1,0
+Kalmyk,xal,153,42,15,6
+Kamba (Kenya),kam,3,0,1,0
+Kambaata,ktb,0,2,0,1
+Kankanaey,kne,0,22,0,2
+Kannada,kan,314,700,21,33
+Kaqchikel,cak,3,1,2,1
+Kara-Kalpak,kaa,129,568,10,35
+Karachay-Balkar,krc,141,103,18,10
+Karang,kzr,0,17,0,2
+Karelian,krl,23,7,7,5
+Karok,kyh,1,0,1,0
+Kasem,xsm,1,37,1,4
+Kashmiri,kas,24,10,8,5
+Kashubian,csb,4,3,4,2
+Kawi,kaw,1,0,1,0
+Kaytetye,gbb,1,0,1,0
+Kazakh,kaz,948,2454,40,70
+Kekchí,kek,0,5,0,3
+Keley-I Kallahan,ify,0,1,0,1
+Kenga,kyq,0,6,0,3
+Kenyang,ken,0,11,0,2
+Kera,ker,0,10,0,2
+Khakas,kjh,29,15,4,2
+Khanty,kca,21,3,5,1
+Khasi,kha,3,0,2,0
+Khotanese,kho,2,0,2,0
+Kikuyu,kik,18,0,7,0
+Kildin Sami,sjd,1,2,1,1
+Kilivila,kij,1,0,1,0
+Kimbundu,kmb,0,2,0,2
+Kinyarwanda,kin,3,4,1,1
+Kiowa,kio,2,0,1,0
+Kirghiz,kir,708,1528,65,64
+Kitja,gia,1,0,1,0
+Kituba (Congo),mkw,0,5,0,4
+Kituba (Democratic Republic of Congo),ktu,1,1,1,1
+Klamath-Modoc,kla,1,0,1,0
+Klingon,tlh,2,1,1,1
+Koalib,kib,2,0,2,0
+Kom (Cameroon),bkm,0,19,0,3
+Komi,kom,121,26,7,3
+Komo (Democratic Republic of Congo),kmw,0,7,0,2
+Kongo,kon,9,5,2,2
+Konkani (macrolanguage),kok,4,2,4,2
+Konkomba,xon,0,8,0,3
+Konni,kma,0,4,0,1
+Konso,kxc,0,7,0,2
+Koonzime,ozm,1,17,1,3
+Koorete,kqy,0,6,0,3
+Korean,kor,4621,22338,38,44
+Koreguaje,coe,0,1,0,1
+Koromfé,kfz,0,12,0,3
+Koronadal Blaan,bpr,0,1,0,1
+Koryak,kpy,6,7,5,1
+Kosraean,kos,0,2,0,2
+Kotafon Gbe,kqk,0,1,0,1
+Kouya,kyf,0,3,0,2
+Koyra Chiini Songhay,khq,1,0,1,0
+Koyraboro Senni Songhai,ses,1,0,1,0
+Koyukon,koy,1,0,1,0
+Krahô,xra,1,0,1,0
+Krio,kri,1,1,1,1
+Kriol,rop,7,7,2,3
+Kuanyama,kua,0,2,0,2
+Kuku-Yalanji,gvn,0,1,0,1
+Kumaoni,kfy,1,0,1,0
+Kumbainggar,kgs,1,0,1,0
+Kumiai,dih,1,0,1,0
+Kumyk,kum,44,65,7,9
+Kunimaipa,kup,0,1,0,1
+Kuo,xuo,0,11,0,3
+Kurdish,kur,137,201,20,15
+Kusaal,kus,0,1,0,1
+Kutenai,kut,4,0,2,0
+Kuvi,kxv,1,0,1,0
+Kven Finnish,fkv,1,0,1,0
+Kwakiutl,kwk,2,0,1,0
+Kwangali,kwn,0,1,0,1
+Kwanja,knp,0,9,0,2
+Kxoe,xuu,1,0,1,0
+Lacandon,lac,1,0,1,0
+Ladino,lad,32,15,7,8
+Lahnda,lah,7,4,2,2
+Lahu,lhu,2,30,1,1
+Lak,lbe,41,65,8,6
+Lake Miwok,lmw,1,0,1,0
+Lakota,lkt,5,1,2,1
+Lama (Togo),las,0,9,0,1
+Lamba,lam,1,0,1,0
+Lamnso',lns,5,15,1,3
+Languedocien,lnc,0,1,0,1
+Lao,lao,41,232,9,12
+Lari,lrl,1,0,1,0
+Latin,lat,19240,362,75,33
+Latvian,lav,1288,8145,44,61
+Lele (Papua New Guinea),lle,1,0,1,0
+Lelemi,lef,0,6,0,3
+Lelepa,lpa,0,1,0,1
+Lesing-Gelimi,let,2,0,2,0
+Lezghian,lez,34,64,3,4
+Lika,lik,0,1,0,1
+Lillooet,lil,1,0,1,0
+Limbum,lmp,0,8,0,2
+Limburgan,lim,0,1,0,1
+Limousin,lms,3,0,1,0
+Lingala,lin,13,20,1,5
+Lisu,lis,1,78,1,1
+Lithuanian,lit,1985,15447,64,74
+Liv,liv,3,0,3,0
+Livvi,olo,0,3,0,2
+Lobala,loq,0,2,0,1
+Lobi,lob,0,1,0,1
+Logo,log,0,3,0,1
+Lote,uvl,0,1,0,1
+Lower Tanana,taa,2,0,1,0
+Lü,khb,0,2,0,1
+Luba-Katanga,lub,0,2,0,2
+Luba-Lulua,lua,2,10,2,2
+Luiseno,lui,1,0,1,0
+Lule Sami,smj,8,42,5,5
+Lushai,lus,1,0,1,0
+Lushootseed,lut,1,0,1,0
+Luxembourgish,ltz,4,36,2,8
+Lyélé,lee,0,9,0,2
+Maba (Chad),mde,0,6,0,1
+Macanese,mzs,1,0,1,0
+Macedo-Romanian,rup,5,9,5,6
+Macedonian,mkd,1592,3901,38,52
+Machiguenga,mcb,5,1,1,1
+Mag-antsi Ayta,sgb,0,2,0,1
+Magbukun Ayta,ayt,0,2,0,1
+Magdalena Peñasco Mixtec,xtm,1,0,1,0
+Mahican,mjy,1,0,1,0
+Maithili,mai,13,7,4,4
+Majang,mpe,0,1,0,1
+Makaa,mcp,0,12,0,2
+Makhuwa,vmw,0,1,0,1
+Makuráp,mpu,1,0,1,0
+Malaccan Creole Portuguese,mcm,1,0,1,0
+Malagasy,mlg,32,204,5,13
+Malay (macrolanguage),msa,485,5416,28,35
+Malayalam,mal,306,1202,28,48
+Malecite-Passamaquoddy,pqm,2,0,1,0
+Mali,gcc,1,0,1,0
+Malo,mla,1,0,1,0
+Maltese,mlt,27,86,11,12
+Mamanwa,mmn,0,3,0,3
+Mampruli,maw,0,7,0,2
+Manchu,mnc,9,2,5,2
+Mandan,mhq,2,0,2,0
+Mandingo,man,15,2,4,1
+Mangarayi,mpc,1,0,1,0
+Manipuri,mni,11,1,4,1
+Mansi,mns,20,1,6,1
+Manx,glv,1,0,1,0
+Maore Comorian,swb,1,0,1,0
+Maori,mri,88,319,9,5
+Mapudungun,arn,9,1,5,1
+Mapun,sjm,0,10,0,3
+Marathi,mar,405,878,25,35
+Margu,mhg,2,0,2,0
+Mari (Russia),chm,116,89,8,4
+Masbatenyo,msb,0,1,0,1
+Matal,mfh,0,1,0,1
+Matengo,mgv,1,0,1,0
+Matigsalug Manobo,mbt,0,2,0,1
+Mayogo,mdm,0,2,0,1
+Mayoyao Ifugao,ifu,0,1,0,1
+Mbandja,zmz,0,1,0,1
+Mbato,gwa,1,0,1,0
+Mbelime,mql,0,2,0,1
+Mbuko,mqb,6,4,1,1
+Me'en,mym,0,8,0,2
+Medumba,byv,0,2,0,1
+Melpa,med,1,0,1,0
+Menominee,mez,1,0,1,0
+Merey,meq,1,0,1,0
+Mescalero-Chiricahua Apache,apm,1,0,1,0
+Meskwaki,sac,2,0,2,0
+Meta',mgo,0,4,0,2
+Mi'kmaq,mic,5,1,2,1
+Michif,crg,1,0,1,0
+Middle Armenian,axm,2,0,1,0
+Middle Dutch (ca. 1050-1350),dum,84,0,11,0
+Middle English (1100-1500),enm,231,28,21,8
+Middle French (ca. 1400-1600),frm,267,16,22,6
+Middle High German (ca. 1050-1500),gmh,595,15,30,6
+Middle Irish (900-1200),mga,12,0,3,0
+Middle Low German,gml,2,0,2,0
+Middle Welsh,wlm,5,0,4,0
+Migaama,mmy,0,2,0,2
+Minoan,omn,1,0,1,0
+Mirandese,mwl,0,1,0,1
+Mískito,miq,0,1,0,1
+Mmaala,mmu,0,2,0,1
+Modern Greek (1453-),ell,4862,27422,45,58
+Mofu-Gudur,mif,1,26,1,3
+Mohave,mov,1,1,1,1
+Mohawk,moh,3,0,2,0
+Moksha,mdf,101,34,9,3
+Molbog,pwm,0,1,0,1
+Moldavian,mol,2864,3720,37,74
+Molima,mox,0,1,0,1
+Mon,mnw,1,0,1,0
+Mongo,lol,1,0,1,0
+Mongolian,mon,244,2423,33,45
+Mono (Democratic Republic of Congo),mnh,0,2,0,1
+Montagnais,moe,2,0,2,0
+Morisyen,mfe,9,9,2,4
+Moro,mor,2,0,1,0
+Mossi,mos,4,3,1,2
+Mpur,akc,0,1,0,1
+Mukulu,moz,1,17,1,4
+Mumuye,mzm,0,1,0,1
+Mundang,mua,1,0,1,0
+Mundani,mnf,0,18,0,2
+Mundari,muw,1,0,1,0
+Murrinh-Patha,mwf,0,3,0,1
+Muslim Tat,ttt,4,0,1,0
+Muyang,muy,0,9,0,1
+Mwan,moa,0,2,0,1
+Nafaanra,nfr,0,10,0,3
+Nali,nss,1,0,1,0
+Nama (Namibia),naq,0,1,0,1
+Nanai,gld,39,2,19,1
+Naro,nhr,0,8,0,2
+Narrinyeri,nay,0,2,0,2
+Naskapi,nsk,1,0,1,0
+Natchez,ncz,1,0,1,0
+Nateni,ntm,0,9,0,2
+Navajo,nav,14,13,4,1
+Nawuri,naw,0,1,0,1
+Naxi,nbf,0,19,0,1
+Ndonga,ndo,1,4,1,2
+Ndzwani Comorian,wni,0,1,0,1
+Neapolitan,nap,11,0,6,0
+Nemi,nem,4,0,1,0
+Nenets,yrk,41,4,5,1
+Nengone,nen,4,0,2,0
+Nepali macrolanguage,nep,47,140,12,11
+Newari,new,3,25,1,9
+Nez Perce,nez,1,0,1,0
+Ngaanyatjarra,ntj,3,3,1,1
+Ngaju,nij,1,0,1,0
+Ngalkbun,ngk,1,0,1,0
+Ngambay,sba,1,0,1,0
+Nganasan,nio,2,0,1,0
+Ngangam,gng,0,17,0,3
+Ngazidja Comorian,zdj,3,0,1,0
+Ngbaka,nga,0,17,0,4
+Ngiemboon,nnh,0,15,0,2
+Ngomba,jgo,0,2,0,1
+Nigerian Pidgin,pcm,2,0,1,0
+Niuean,niu,25,67,6,6
+Nivaclé,cag,0,1,0,1
+Nkonya,nko,0,1,0,1
+Nogai,nog,28,33,9,3
+Nomaande,lem,0,2,0,1
+Noone,nhu,0,11,0,3
+Nootka,noo,1,0,1,0
+Norn,nrn,2,0,1,0
+North Ndebele,nde,3,14,2,3
+Northeast Pashayi,aee,1,0,1,0
+Northern Altai,atv,0,1,0,1
+Northern Dagara,dgi,0,6,0,2
+Northern Dong,doc,0,5,0,1
+Northern Frisian,frr,7,4,3,3
+Northern Kankanay,xnn,0,1,0,1
+Northern Paiute,pao,1,0,1,0
+Northern Sami,sme,103,173,16,16
+Northern Tiwa,twf,2,0,2,0
+Northern Yukaghir,ykg,21,1,3,1
+Northwest Pashayi,glh,1,0,1,0
+Norwegian,nor,14530,45923,76,87
+Notsi,ncf,0,1,0,1
+Nuer,nus,1,0,1,0
+Nugunu (Cameroon),yas,0,2,0,1
+Nunggubuyu,nuy,1,0,1,0
+Nyabwa,nwb,0,1,0,1
+Nyanga,nyj,4,0,3,0
+Nyangumarta,nna,1,0,1,0
+Nyanja,nya,1,18,1,3
+Nyoro,nyo,0,1,0,1
+Nyunga,nys,1,0,1,0
+Nzakambay,nzy,0,1,0,1
+Obo Manobo,obo,0,4,0,3
+Occitan (post 1500),oci,452,204,12,13
+Official Aramaic (700-300 BCE),arc,347,3,26,3
+Ojibwa,oji,13,25,5,4
+Okanagan,oka,1,0,1,0
+Oksapmin,opm,0,1,0,1
+Oku,oku,0,5,0,3
+Old Chinese,och,16,0,4,0
+Old English (ca. 450-1100),ang,147,8,21,4
+Old French (842-ca. 1400),fro,902,20,35,7
+Old Frisian,ofs,2,0,2,0
+Old Georgian,oge,11,1,4,1
+Old High German (ca. 750-1050),goh,20,4,4,3
+Old Irish (to 900),sga,14,0,6,0
+Old Japanese,ojp,15,0,2,0
+Old Norse,non,299,1,22,1
+Old Nubian,onw,1,0,1,0
+Old Persian (ca. 600-400 B.C.),peo,11,0,6,0
+Old Provençal (to 1500),pro,159,16,20,5
+Old Russian,orv,173,4,28,3
+Old Saxon,osx,6,0,3,0
+Old Spanish,osp,29,0,13,0
+Old Tamil,oty,1,0,1,0
+Old Turkish,otk,12,0,5,0
+Omaha-Ponca,oma,2,0,1,0
+Ömie,aom,0,1,0,1
+Oneida,one,2,0,1,0
+Oriya (macrolanguage),ori,244,752,21,38
+Orokaiva,ork,1,1,1,1
+Oromo,orm,3,0,2,0
+Osage,osa,1,0,1,0
+Ossetian,oss,195,153,14,21
+Ottoman Turkish (1500-1928),ota,16,1,6,1
+Ozumacín Chinantec,chz,1,0,1,0
+Paasaal,sig,0,3,0,2
+Pagu,pgu,0,1,0,1
+Pahlavi,pal,18,0,7,0
+Paicî,pri,4,2,1,1
+Palauan,pau,0,4,0,2
+Pali,pli,400,0,40,0
+Pampanga,pam,1,0,1,0
+Pamplona Atta,att,0,1,0,1
+Pangasinan,pag,2,0,2,0
+Pangutaran Sama,slm,0,4,0,2
+Panjabi,pan,327,384,18,32
+Papiamento,pap,6,2,2,2
+Parkwa,pbi,0,8,0,2
+Paumarí,pad,0,1,0,1
+Pawnee,paw,2,0,2,0
+Pedi,nso,0,10,0,1
+Pennsylvania German,pdc,2,1,1,1
+Persian,fas,2837,11329,70,60
+Phai,prt,0,5,0,3
+Picard,pcd,18,10,1,2
+Pidgin Delaware,dep,1,0,1,0
+Pije,piz,2,0,1,0
+Pijin,pis,0,1,0,1
+Pima Bajo,pia,2,0,2,0
+Pintupi-Luritja,piu,1,0,1,0
+Piratapuyo,pir,0,1,0,1
+Pitjantjatjara,pjt,2,10,1,3
+Plautdietsch,pdt,6,16,3,6
+Polish,pol,14104,76720,64,93
+Portuguese,por,11390,74721,66,71
+Prussian,prg,2,0,2,0
+Pukapuka,pkp,0,1,0,1
+Purepecha,tsz,0,2,0,1
+Pushto,pus,60,285,23,14
+Q'anjob'al,kjb,3,1,2,1
+Quechan,yum,2,0,2,0
+Quechua,que,37,25,10,5
+Rajasthani,raj,26,3,3,3
+Rarotongan,rar,34,78,5,6
+Rawa,rwo,0,1,0,1
+Réunion Creole French,rcf,35,16,2,4
+Romanian,ron,5475,18464,55,80
+Romansh,roh,90,284,8,14
+Romany,rom,79,82,18,16
+Roviana,rug,0,7,0,2
+Rundi,run,3,0,1,0
+Russian,rus,101395,82772,150,172
+Rutul,rut,0,2,0,2
+S'gaw Karen,ksw,2,0,1,0
+Safeyoka,apz,0,1,0,1
+Saint Lucian Creole French,acf,3,3,2,3
+Salinan,sln,3,0,1,0
+Sama,smd,0,4,0,1
+Sambal,xsb,0,1,0,1
+Samoan,smo,74,141,9,6
+San Blas Kuna,cuk,3,0,2,0
+Sangil,snl,1,0,1,0
+Sangir,sxn,0,1,0,1
+Sango,sag,3,1,2,1
+Sanskrit,san,4282,58,68,16
+Santali,sat,3,1,2,1
+Sara,sre,1,0,1,0
+Saramaccan,srm,25,3,1,1
+Sarangani Blaan,bps,0,11,0,1
+Sarangani Manobo,mbs,0,5,0,1
+Saraveca,sar,1,0,1,0
+Sardinian,srd,6,0,5,0
+Sarsi,srs,1,0,1,0
+Saxwe Gbe,sxw,0,1,0,1
+Scots,sco,29,32,5,13
+Scottish Gaelic,gla,78,227,11,7
+Sea Island Creole English,gul,1,1,1,1
+Seget,sbg,1,0,1,0
+Selkup,sel,1,0,1,0
+Sena,seh,0,1,0,1
+Seneca,see,3,0,1,0
+Sepik Iwam,iws,0,1,0,1
+Serbo-Croatian,hbs,12743,45036,62,80
+Serer,srr,0,4,0,1
+Seselwa Creole French,crs,5,0,3,0
+Shan,shn,3,0,1,0
+Sharanahua,mcd,2,0,1,0
+Shina,scl,1,0,1,0
+Shipibo-Conibo,shp,0,1,0,1
+Shona,sna,5,16,3,3
+Shor,cjs,3,0,1,0
+Shoshoni,shh,1,0,1,0
+Sichuan Yi,iii,0,18,0,1
+Sicilian,scn,2,2,1,1
+Sìcìté Sénoufo,sep,0,5,0,2
+Sidamo,sid,0,3,0,2
+Siksika,bla,2,4,2,2
+Sindhi,snd,47,15,14,5
+Sinhala,sin,52,671,12,33
+Sissala,sld,0,15,0,3
+Siwu,akp,0,1,0,1
+Skagit,ska,2,0,2,0
+Skolt Sami,sms,4,2,3,2
+Slovak,slk,4205,19641,46,75
+Slovenian,slv,2463,18719,44,60
+Sogdian,sog,1,0,1,0
+Sokoro,sok,0,8,0,2
+Somali,som,26,102,7,10
+Somrai,sor,0,14,0,3
+Soninke,snk,4,1,1,1
+South Efate,erk,0,1,0,1
+South Ndebele,nbl,0,3,0,1
+South Tairora,omw,0,1,0,1
+Southeast Pashayi,psi,4,3,2,1
+Southern Altai,alt,56,50,6,4
+Southern Birifor,biv,0,4,0,1
+Southern Dagaare,dga,1,0,1,0
+Southern Ngbandi,nbw,0,1,0,1
+Southern Nuni,nnw,0,13,0,3
+Southern Puget Sound Salish,slh,3,0,2,0
+Southern Sami,sma,0,30,0,6
+Southern Sotho,sot,9,9,4,2
+Southern Toussian,wib,0,15,0,3
+Southwest Pashayi,psh,1,0,1,0
+Spanish,spa,52955,228910,120,172
+Squamish,squ,2,0,1,0
+Sranan Tongo,srn,35,13,2,2
+Suku,sub,0,1,0,1
+Sumerian,sux,133,0,28,0
+Sumo-Mayangna,sum,2,0,2,0
+Sundanese,sun,0,1,0,1
+Suri,suq,0,7,0,4
+Suruí,sru,1,0,1,0
+Swabian,swg,2,21,2,5
+Swahili (macrolanguage),swa,65,323,16,13
+Swati,ssw,2,16,1,1
+Swedish,swe,39192,71688,85,92
+Swiss German,gsw,27,116,4,10
+Syriac,syr,252,11,25,6
+Tabassaran,tab,14,61,2,6
+Tabla,tnm,0,1,0,1
+Tagbanwa,tbw,0,3,0,1
+Tahitian,tah,10,7,2,3
+Tai Hongjin,tiz,0,145,0,3
+Tai Nüa,tdd,0,2,0,1
+Tajik,tgk,476,1062,29,55
+Tamashek,tmh,27,1,5,1
+Tamil,tam,496,1763,35,44
+Tampulma,tpm,0,3,0,3
+Tanacross,tcb,1,0,1,0
+Tangale,tan,2,0,1,0
+Tangut,txg,2,0,1,0
+Tarifit,rif,1,0,1,0
+Tatar,tat,462,819,35,29
+Tausug,tsg,1,2,1,1
+Tavringer Romani,rmu,0,11,0,1
+Tboli,tbl,0,11,0,2
+Teanu,tkw,1,0,1,0
+Téén,lor,0,1,0,1
+Tektiteko,ttc,1,0,1,0
+Telugu,tel,277,668,28,31
+Tem,kdh,0,11,0,4
+Temascaltepec Nahuatl,nhv,2,0,2,0
+Tembo (Kitembo),tbt,12,3,1,1
+Tepo Krumen,ted,0,7,0,1
+Ter Sami,sjt,2,0,1,0
+Tetum,tet,3,3,2,2
+Tewa (USA),tew,3,0,2,0
+Texistepec Popoluca,poq,1,0,1,0
+Thai,tha,215,1227,25,21
+Thayore,thd,1,11,1,2
+Tibetan,bod,1508,344,40,12
+Ticuna,tca,3,2,1,1
+Tigon Mbembe,nza,0,1,0,1
+Tigrinya,tir,1,74,1,13
+Tikar,tik,0,19,0,3
+Timne,tem,3,0,3,0
+Tiruray,tiy,0,2,0,2
+Tiwi,tiw,0,6,0,2
+Tlahuitoltepec Mixe,mxp,1,0,1,0
+Tlingit,tli,2,0,1,0
+Toaripi,tqo,1,0,1,0
+Tok Pisin,tpi,1,6,1,2
+Tokelau,tkl,69,102,5,6
+Tonga (Nyasa),tog,0,1,0,1
+Tonga (Tonga Islands),ton,29,85,6,7
+Tonga (Zambia),toi,0,2,0,1
+Toraja-Sa'dan,sda,1,0,1,0
+Toro So Dogon,dts,1,0,1,0
+Torres Strait Creole,tcs,2,0,2,0
+Toura (Côte d'Ivoire),neb,0,4,0,2
+Trió,tri,1,1,1,1
+Tsakhur,tkr,0,1,0,1
+Tsonga,tso,0,8,0,1
+Tswa,tsc,1,0,1,0
+Tswana,tsn,0,17,0,2
+Tucano,tuo,0,1,0,1
+Tulu,tcy,2,0,2,0
+Tumulung Sisaala,sil,0,8,0,3
+Tundra Enets,enh,1,0,1,0
+Tuparí,tpr,1,0,1,0
+Tupí,tpw,1,0,1,0
+Turka,tuz,0,3,0,2
+Turkana,tuv,0,1,0,1
+Turkish,tur,2658,11874,58,62
+Turkmen,tuk,434,741,43,46
+Tuvalu,tvl,0,1,0,1
+Tuvinian,tyv,56,164,10,18
+Tuwali Ifugao,ifk,0,4,0,1
+Tuwuli,bov,0,1,0,1
+Tuyuca,tue,1,0,1,0
+Uare,ksj,0,1,0,1
+Ubykh,uby,1,0,1,0
+Udihe,ude,1,0,1,0
+Udmurt,udm,123,37,7,5
+Uduk,udu,0,2,0,2
+Ugaritic,uga,6,0,4,0
+Uighur,uig,81,1488,11,27
+Ukrainian,ukr,2877,4514,72,94
+Ulch,ulc,2,0,1,0
+Ulithian,uli,0,1,0,1
+Umatilla,uma,0,1,0,1
+Umiray Dumaget Agta,due,0,3,0,1
+Una,mtg,0,1,0,1
+Upper Tanana,tau,1,0,1,0
+Upper Tanudan Kalinga,kgh,0,11,0,3
+Urdu,urd,950,1005,49,55
+Urubú-Kaapor,urb,0,2,0,1
+Uspanteco,usp,0,1,0,1
+Uzbek,uzb,872,2757,43,59
+Vagla,vag,0,5,0,3
+Vasavi,vas,0,1,0,1
+Venda,ven,0,5,0,2
+Venetian,vec,5,0,4,0
+Vengo,bav,0,6,0,2
+Veps,vep,4,5,3,4
+Vietnamese,vie,668,786,47,32
+Vlaams,vls,9,0,5,0
+Votic,vot,0,5,0,3
+Vute,vut,0,3,0,2
+Wa,wbm,0,28,0,2
+Waama,wwa,0,22,0,4
+Waci Gbe,wci,0,3,0,1
+Wakhi,wbl,0,1,0,1
+Wallisian,wls,2,0,2,0
+Walloon,wln,6,29,2,3
+Walmajarri,wmt,3,2,1,2
+Wandala,mfi,0,1,0,1
+Wangganguru,wgg,1,0,1,0
+Wapishana,wap,1,3,1,1
+Waray (Philippines),war,0,1,0,1
+Warlpiri,wbp,16,9,2,3
+Waskia,wsk,0,1,0,1
+Wayampi,oym,1,1,1,1
+Wayana,way,2,0,2,0
+Wayuu,guc,1,0,1,0
+Wè Northern,wob,0,3,0,1
+Welsh,cym,621,2312,22,19
+Western Apache,apw,1,0,1,0
+Western Arrarnta,are,2,0,1,0
+Western Bukidnon Manobo,mbb,0,1,0,1
+Western Frisian,fri,119,118,6,9
+Western Jacalteco,jai,3,0,2,0
+Western Kanjobal,knj,1,1,1,1
+Western Keres,kjq,1,0,1,0
+Western Subanon,suc,0,5,0,1
+Wichí Lhamtés Nocten,mtp,0,3,0,1
+Wichita,wic,1,0,1,0
+Wik-Mungkan,wim,0,6,0,2
+Wintu,wit,2,0,1,0
+Winyé,kst,0,1,0,1
+Wiru,wiu,0,1,0,1
+Wolaytta,wal,0,1,0,1
+Wolof,wol,13,16,3,3
+Worora,unp,3,0,1,0
+Wuzlam,udl,0,2,0,2
+Wyandot,wya,4,0,1,0
+Xârâcùù,ane,2,0,1,0
+Xavánte,xav,0,2,0,1
+Xhosa,xho,2,23,1,2
+Xibe,sjo,0,1,0,1
+Yaka (Central African Republic),axk,0,7,0,4
+Yakan,yka,0,1,0,1
+Yakut,sah,153,201,13,15
+Yalarnnga,ylr,1,0,1,0
+Yamba,yam,0,11,0,4
+Yamdena,jmd,0,1,0,1
+Yaminahua,yaa,3,0,1,0
+Yana,ynn,2,0,1,0
+Yankunytjatjara,kdd,1,0,1,0
+Yanyuwa,jao,1,2,1,1
+Yaouré,yre,0,2,0,2
+Yaqui,yaq,2,0,1,0
+Yareba,yrb,0,1,0,1
+Yele,yle,0,1,0,1
+Yemba,ybb,0,4,0,2
+Yemsa,jnj,0,1,0,1
+Yiddish,yid,1590,89,42,12
+Yine,pib,1,1,1,1
+Yocoboué Dida,gud,0,2,0,1
+Yom,pil,0,2,0,1
+Yopno,yut,0,1,0,1
+Yoruba,yor,21,28,5,5
+Yucateco,yua,8,2,4,2
+Yuchi,yuc,1,0,1,0
+Yuki,yuk,1,0,1,0
+Zaiwa,atb,0,3,0,1
+Zan Gula,zna,0,3,0,1
+Zapotec,zap,3,0,2,0
+Zarma,dje,6,0,1,0
+Zhuang,zha,0,101,0,1
+Ziriya,zir,0,1,0,1
+Zulgo-Ge
